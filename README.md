@@ -350,7 +350,6 @@ const AbuSinan = {
 <!-- 5. Then uncomment the <picture> block below -->
 <!-- ═══════════════════════════════════════════ -->
 
-<!--
 <div align="center">
   <picture>
     <source
@@ -368,7 +367,6 @@ const AbuSinan = {
     />
   </picture>
 </div>
--->
 
 <br/>
 
