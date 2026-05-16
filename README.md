@@ -383,8 +383,8 @@ const AbuSinan = {
 [![Portfolio](https://img.shields.io/badge/◈_abusinan.me-0a84ff?style=for-the-badge&logoColor=white)](https://abusinan.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abusinan)
 [![X / Twitter](https://img.shields.io/badge/X_%40AbuSinan__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbuSinan_)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Email](https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e30dce1e0e342629)
+[![Email](https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: abusinan1523@gmail.com)
 
 <br/><br/>
 
