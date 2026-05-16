@@ -267,13 +267,13 @@ const AbuSinan = {
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=abu-sinan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=0a84ff&text_color=94a3b8&border_radius=10"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=abu-sinan&show_icons=true&theme=tokyonight&hide_border=true"
   height="170"
   alt="Abu Sinan GitHub Stats"
 />
 &nbsp;&nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sinan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&border_radius=10&langs_count=8&hide=html,css"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abu-sinan&layout=compact&theme=tokyonight&hide_border=true"
   height="170"
   alt="Top Languages"
 />
